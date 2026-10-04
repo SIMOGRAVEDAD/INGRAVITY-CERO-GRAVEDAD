@@ -1,0 +1,1 @@
+const b=document.querySelector('.menu-btn'),n=document.querySelector('.header nav');if(b)b.onclick=()=>n.classList.toggle('open');
